@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olutomi29
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning how to code using html
+- 👀 I’m interested Blockchain Technology 
+- 🌱 I’m currently learning Blockchain Theory 
 - 💞️ I’m looking to collaborate with others to learn more.
 - 📫 You can reach me via my email.
 
